@@ -1,2 +1,2 @@
 # TicTacToe
-Simulating tic-tac-toe game
+The program simulates the tic-tac-toe game
